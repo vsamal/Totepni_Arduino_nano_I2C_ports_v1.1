@@ -1,3 +1,6 @@
+/*
+  https://arduino-info.wikispaces.com/Ethernet
+*/
 
 // #include "SPI.h"
 #include "Wire.h"
